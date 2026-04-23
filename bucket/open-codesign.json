@@ -1,16 +1,16 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "Open-source desktop AI design tool — prompt to prototype, BYOK, local-first",
   "homepage": "https://opencoworkai.github.io/open-codesign/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.1.2/open-codesign-0.1.2-x64-setup.exe#/dl.7z",
-      "hash": "328768b7dbb400cd7d15267037acd4ac03b64f15cd3d6eb1c80e58f5abe82e74"
+      "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.1.4/open-codesign-0.1.4-x64-setup.exe#/dl.7z",
+      "hash": "103c4bc278a9db6f0ac8d05aaa738232edee71f4da333ee51c21a1b315715ac6"
     },
     "arm64": {
-      "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.1.2/open-codesign-0.1.2-arm64-setup.exe#/dl.7z",
-      "hash": "d6c475044c10d8f66a7f0f65dbabf2b488061235d29cdcfb7db3f116c0466cdc"
+      "url": "https://github.com/OpenCoworkAI/open-codesign/releases/download/v0.1.4/open-codesign-0.1.4-arm64-setup.exe#/dl.7z",
+      "hash": "00c7883ce7e992149ca465b94bb6b68c1ce714c4a97e73dc9bf148d589ceb5ba"
     }
   },
   "bin": "open-codesign.exe",
